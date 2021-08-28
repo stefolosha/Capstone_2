@@ -1,2 +1,2 @@
 # Capstone-2
-NYC car accidents in relation to Holidays
+Over 200,000 accidents occured in just the five boroughs of NYC in 2018. While some car accidents are considered true accidents' over 90% are caused by human error according to Bttlaw.com. With such a high rate of accidents considered to be caused by no external factors, would we still be able to predict the severity of an accident just by the supporting data? If so, this may support the idea that the human error fault may not be as high as commonly accepted. Items such as confusing signs, poorly lit roads, or bad drainage can all cause factors that may not be seen on the surface.
